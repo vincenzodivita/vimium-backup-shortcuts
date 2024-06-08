@@ -1,0 +1,4 @@
+{
+  "keyMappings": "unmap f\nmap <c-f> LinkHints.activateMode\nunmap m\nmap <c-m> createMark\nunmap d\nunmap v",
+  "settingsVersion": "2.1.2"
+}
